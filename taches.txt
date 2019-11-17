@@ -1,7 +1,14 @@
 Environnement de travail
 
-- Adresse Gmail >>> acquis 
-- Compte Github >>> acquis 
-- Installer Git >>> acquis
-- Installer Ubuntu >>> acquis
-- Installer Chrome >>> acquis
+- Adresse Gmail >>> acquis  le 13/11/2019
+- Compte Github >>> acquis  le 14/11/2019
+- Installer Git >>> acquis  le 14/11/2019
+- Installer Ubuntu >>> acquis  le 14/11/2019
+- Installer Chrome >>> acquis  le 13/11/2019
+- Verifier version Python >>> non acquis
+- Carnet de bord >>> en cours  
+- Compte Google colab >>> non acquis 
+- S'inscrire Géogebra >>> non acquis
+- Compte Trello >>> non acquis
+- Jupyter notebook >>> non acquis
+
