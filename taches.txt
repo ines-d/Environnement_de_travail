@@ -1,0 +1,6 @@
+Environnement de travail
+
+- Adresse Gmail >>> acquis 
+- Compte Github >>> acquis 
+- Installer Git >>> acquis
+- Installer Ubuntu >>> acquis
