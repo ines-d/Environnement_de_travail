@@ -4,3 +4,4 @@ Environnement de travail
 - Compte Github >>> acquis 
 - Installer Git >>> acquis
 - Installer Ubuntu >>> acquis
+- Installer Chrome >>> acquis
