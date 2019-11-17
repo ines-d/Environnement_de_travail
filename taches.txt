@@ -10,5 +10,6 @@ Environnement de travail
 - Compte Google colab >>> non acquis 
 - S'inscrire Géogebra >>> non acquis
 - Compte Trello >>> non acquis
-- Jupyter notebook >>> non acquis
+- Jupyter notebook (Anaconda) >>> acquis  le 17/11/2019
+
 
