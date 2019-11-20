@@ -14,7 +14,7 @@ Environnement de travail
 - Jupyter notebook (Anaconda) 		>>> acquis  le 17/11/2019
 - Installer VScode 			>>> acquis  le 17/11/2019
 
-				LE 18/11/2019
+				Le 18/11/2019
 	
 - Chercher les avantages et les inconvenients d'un SGBD >>> acquis
 - Installer MySQL Workbench 		>>> acquis
@@ -25,8 +25,11 @@ Environnement de travail
 				Le 19/11/2019
 
 
-
 - Installer Anaconda 			>>> acquis le 17/11/2019
-- Exercices Python			>>> acquis 
+- Exercices Python (if, elif, eles)	>>> acquis 
 
 
+				Le 20/11/2019
+
+
+- Exercices Python(while, for)		>>> acquis 
