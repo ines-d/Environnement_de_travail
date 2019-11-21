@@ -33,3 +33,9 @@ Environnement de travail
 
 
 - Exercices Python(while, for)		>>> acquis 
+
+
+				Le 21/11/2019
+
+- Exercices sur Pandas et Matplotlib 	>>> acquis
+  ( calcule de la moyenne, médianne, quartilesgraphiques,mode, variance...)
