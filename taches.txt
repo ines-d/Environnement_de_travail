@@ -52,7 +52,7 @@ Environnement de travail
 				Le 25/11/2019
 
 
-- Modélisation des données (methode merise, 		>>> acquis
+- Modélisation des données (methode merise, 		>>> en cours d'acquisition
   creation d'un dictionnaire"libelé,type,taille,descriptiif").
 - Creer une table sur mysql-workbench.
 
@@ -60,5 +60,5 @@ Environnement de travail
 				Le 26/11/2016
 
 
-- Le modèle conceptuel des données			>>> acquis
+- Le modèle conceptuel des données			>>> en cours d'acquisition
 - Modèle entité/association
