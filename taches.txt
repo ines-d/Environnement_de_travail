@@ -3,7 +3,7 @@ Environnement de travail
 
 - Adresse Gmail 					>>> acquis  le 13/11/2019
 - Compte Github 					>>> acquis  le 14/11/2019
-- Installer Git 					 acquis  le 14/11/2019
+- Installer Git 					>>> acquis  le 14/11/2019
 - Installer Ubuntu 					>>> acquis  le 14/11/2019
 - Installer Chrome 					>>> acquis  le 14/11/2019
 - Verifier version Python 				>>> non acquis
@@ -57,8 +57,18 @@ Environnement de travail
 - Creer une table sur mysql-workbench.
 
 
-				Le 26/11/2016
+				Le 26/11/2019
 
 
 - Le modèle conceptuel des données			>>> en cours d'acquisition
 - Modèle entité/association
+
+
+				Le 27/11/2019
+
+- Pédagogie active					>>> en cours d'acquisition
+- stand up "prairie":	-installation environnement de travail
+			-problème installation Ubuntu solution installer virtualbox
+			-travailler sur workbench
+- Roadmap						>>> en cours d'acquisition
+
