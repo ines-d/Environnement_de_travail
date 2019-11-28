@@ -16,43 +16,43 @@ Environnement de travail
 
 				Le 18/11/2019
 	
-- Chercher les avantages et les inconvenients d'un SGBD >>> acquis
-- Installer MySQL Workbench 				>>> acquis
-- Compte mode.com 					>>> acquis
-- Exercice MySQL 					>>> acquis
-
+- Chercher les avantages et les inconvenients d'un SGBD 	>>> acquis
+- Installer MySQL Workbench 					>>> acquis
+- Compte mode.com 						>>> acquis
+- Exercice MySQL 						>>> acquis
+	
 			
 				Le 19/11/2019
 
 
-- Installer Anaconda 					>>> acquis le 17/11/2019
-- Exercices Python (if, elif, eles)			>>> acquis 
-
+- Installer Anaconda 						>>> acquis le 17/11/2019
+- Exercices Python (if, elif, eles)				>>> acquis 
+	
 
 				Le 20/11/2019
 
 
-- Exercices Python(while, for)				>>> acquis 
+- Exercices Python(while, for)					>>> acquis 
 
 
 				Le 21/11/2019
 
 
-- Exercices sur Pandas et Matplotlib 	>>> acquis
+- Exercices sur Pandas et Matplotlib 				>>> acquis
   ( calcule de la moyenne, médianne, quartiles, graphiques,mode, variance...)
 
 
 				Le 22/11/2019
 
 
-- Revoir tout se qu'on a fait pendant la semaine.	>>> acquis
+- Revoir tout se qu'on a fait pendant la semaine.		>>> acquis
   ( MySQL, Python, Anaconda, Pandas,...)
 
 
 				Le 25/11/2019
 
 
-- Modélisation des données (methode merise, 		>>> en cours d'acquisition
+- Modélisation des données (methode merise, 			>>> en cours d'acquisition
   creation d'un dictionnaire"libelé,type,taille,descriptiif").
 - Creer une table sur mysql-workbench.
 
@@ -60,15 +60,29 @@ Environnement de travail
 				Le 26/11/2019
 
 
-- Le modèle conceptuel des données			>>> en cours d'acquisition
+- Le modèle conceptuel des données				>>> en cours d'acquisition
 - Modèle entité/association
 
 
 				Le 27/11/2019
 
-- Pédagogie active					>>> en cours d'acquisition
-- stand up "prairie":	-installation environnement de travail
-			-problème installation Ubuntu solution installer virtualbox
-			-travailler sur workbench
-- Roadmap						>>> en cours d'acquisition
+- Pédagogie active						>>> en cours d'acquisition
+- stand up sur les 2 semaines de la "prairie":	
+	-installation environnement de travail
+	-problème installation Ubuntu solution installer virtualbox
+	-travailler sur workbench
+- Roadmap "feuille de route"					>>> en cours d'acquisition
+
+
+
+				Le 28/11/2019
+
+
+- Veille Markdown						>>> en cours d'acquisition
+- Atelier Trello : creer 3 tableau suiv,Roadmap,business	>>> en cours d'acquisition
+- Installer Readthedocs en local				>>> en cours d'acquisition
+- Stand up sur le pojet "suivi de projet" par groupe:
+	-definir les risque d'un projet par la SWOT
+	-2 méthode de suivi "agile" et "classique"
+	-objectif à atteindre avec coup, qualité, délai
 
