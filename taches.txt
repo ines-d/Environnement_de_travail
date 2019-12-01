@@ -86,3 +86,10 @@ Environnement de travail
 	-2 méthode de suivi "agile" et "classique"
 	-objectif à atteindre avec coup, qualité, délai
 
+
+
+				Le 29/11/19
+
+
+- Atelier Trello : continuer le remplissage des 3 tableau	>>> en cours d'acquisition
+- Installer mkdocs suite à l'installation de Readthedocs	>>> en cours d'acquisition
