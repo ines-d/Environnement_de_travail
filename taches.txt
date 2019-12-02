@@ -93,3 +93,13 @@ Environnement de travail
 
 - Atelier Trello : continuer le remplissage des 3 tableau	>>> en cours d'acquisition
 - Installer mkdocs suite à l'installation de Readthedocs	>>> en cours d'acquisition
+
+				
+				Le 02/12/19
+
+- Modèl relationnel de données: 				>>> en cours d'acquisition
+			- dépendances fonctionnelles.
+			- identifiant
+			- les formes normales
+			- les relations
+			- matrice des dépendances fonctionnemlles
