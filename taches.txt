@@ -103,3 +103,4 @@ Environnement de travail
 			- les formes normales
 			- les relations
 			- matrice des dépendances fonctionnemlles
+-Exercices pratiques						>>> en cours d'acquisition
