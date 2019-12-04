@@ -103,4 +103,23 @@ Environnement de travail
 			- les formes normales
 			- les relations
 			- matrice des dépendances fonctionnemlles
--Exercices pratiques						>>> en cours d'acquisition
+- Exercices pratiques						>>> en cours d'acquisition
+
+
+				Le 03/12/19
+
+
+- Fonctions récursives 						>>> en cours d'acquisition
+- Modèle conceptuel des données, exercices			>>> en cours d'acquisition
+
+
+				Le 04/12/19
+
+- Veille sur API					>>> en cours d'acquisition
+- Veille sur Cloud computing				>>> en cours d'acquisition
+- Veille SCRUM MASTER					>>> en cours d'acquisition
+- Veille J-SON						>>> en cours d'acquisition
+- Veille sur Proof of concept				>>> en cours d'acquisition
+- Veille sur RC=Release candidate			>>> en cours d'acquisition
+- Installer sphinx 					>>> en cours d'acquisition
+
