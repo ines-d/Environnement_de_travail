@@ -135,4 +135,14 @@ Environnement de travail
 - Livrer le Manuel "suivi de projet" 										>>> en cours d'acquisition 
 
 
+				Le 06/12/2019
+
+
+- Veille sur le format de fichier .csv 										>>> acquis
+- Veille sur l'utilisation de google sheet 									>>> en cours d'acquisition
+- Atelier création d'un tableau avec une liste déroulante simple						>>> acquis
+- Atelier Business recherche offre de recherche de stage :							>>> en cours d'acquisition
+	le lien(https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit#gid=1762547584)
+
+
 
