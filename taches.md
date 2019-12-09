@@ -143,6 +143,13 @@ Environnement de travail
 - Veille sur l(utilisation de google sheet									>>> en cours d'acquisition
 - Atelier création d'un tableau d'une liste déroulante simple							>>> acquis
 - Atelier recherche d'offre de stage:[le lien](https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit?usp=sharing)													>>> en cours d'acquisition
+
+
+				Le 09/12/19
+
+- Fonction récursive sur Python											>>> en cours d'acquisition
+- Comprendre le code des labyrinthes(class, def, ...)								>>> en cours d'acquisition
+
 			
 
 
