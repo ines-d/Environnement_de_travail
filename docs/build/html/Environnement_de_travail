@@ -155,15 +155,7 @@ creation d”un dictionnaire »libelé,type,taille,descriptiif »).</p></li>
 <li><p>Installer Markdown												&gt;&gt;&gt; en cours d”acquisition</p></li>
 <li><p>Roadmap pour le stage:https://trello.com/b/A7ExCkRw/roadmap-stage 						&gt;&gt;&gt; en cours d”acquisition</p></li>
 <li><p>Arbre des compétences:https://trello.com/b/FlMCgX8k/arbre-de-comp%C3%A9tences					&gt;&gt;&gt; en cours d”acquisition</p></li>
-<li><p>Livrer le Manuel « suivi de projet » 										&gt;&gt;&gt; en cours d”acquisition</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>  		<span class="n">Le</span> <span class="mi">06</span><span class="o">/</span><span class="mi">12</span><span class="o">/</span><span class="mi">19</span>
-</pre></div>
-</div>
-</li>
-<li><p>Veille sur le format de fichier .csv										&gt;&gt;&gt; en cours d”acquisition</p></li>
-<li><p>Veille sur l(utilisation de google sheet									&gt;&gt;&gt; en cours d”acquisition</p></li>
-<li><p>Atelier création d”un tableau d”une liste déroulante simple							&gt;&gt;&gt; acquis</p></li>
-<li><p>Atelier recherche d”offre de stage:<a class="reference external" href="https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit#gid=1762547584">le lien</a>												&gt;&gt;&gt; en cours d”acquisition</p></li>
+<li><p>Livrer le Manuel « suivi de projet » 										&gt;&gt;&gt; en cours d”acquisition</p></li>
 </ul>
 </div>
 
@@ -218,7 +210,7 @@ creation d”un dictionnaire »libelé,type,taille,descriptiif »).</p></li>
       &copy;2019, ines.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.2.0</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.2.2</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |
