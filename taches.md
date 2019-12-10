@@ -151,6 +151,9 @@ Environnement de travail
 - Comprendre le code des labyrinthes(class, def, ...)								>>> en cours d'acquisition
 
 			
+				Le 10/12/19
 
+- Requête approfondie (Interogation avancée) SQL 								>>> en cours d'acquisition
+- Jointure (définition, types, ..)										>>> en cours d'acquisition
 
 
