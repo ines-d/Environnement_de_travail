@@ -157,3 +157,14 @@ Environnement de travail
 - Jointure (définition, types, ..)										>>> en cours d'acquisition
 
 
+				Le 11/12/19
+
+- Présentation du projet "micropousse"										>>> acquis
+- Création d'un tableau de suivi sur Trello 									>>> acquis
+
+
+				Le 12/12/19
+
+- Visite de l'entreprise Paysan Urbain										>>> en cours d'acquisistion
+- création de groupe et répartition des taches par rapport au projet						>>> acquis
+ 
