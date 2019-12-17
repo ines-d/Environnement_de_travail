@@ -167,4 +167,24 @@ Environnement de travail
 
 - Visite de l'entreprise Paysan Urbain										>>> en cours d'acquisistion
 - création de groupe et répartition des taches par rapport au projet						>>> acquis
+
+
+				Le 13/12/19
+
+- Préparation de la présentation du projet FETEKADO								>>> acquis
+- Atelier business "Recherche de stage" 									>>> en cours d'aquisition
+
+
+				Le 16/12/19
+
+- Continuer le travail sur le Projet Micropousses								>>> en cours d'acquisistion
+- La présentation du projet "FETEKADO" l'aprèe-midi								>>> acquis
+
+				le 17/12/19
+
+- Veille sur les droits d'accès SGBD										>>> acquis
+- Exercice sur les droits d'accès										>>> en cours d'acquisistion
+- Continuer le cours sur le passage du MCD(modèle conceptuel de données) au MRD(modèle relationnel de données)	>>> acquis
+- Continuer de travailler sur le Projet Micropousses								>>> en cours d'acquisistion
+
  
