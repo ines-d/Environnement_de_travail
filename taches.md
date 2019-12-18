@@ -180,11 +180,16 @@ Environnement de travail
 - Continuer le travail sur le Projet Micropousses								>>> en cours d'acquisistion
 - La présentation du projet "FETEKADO" l'aprèe-midi								>>> acquis
 
-				le 17/12/19
+				Le 17/12/19
 
 - Veille sur les droits d'accès SGBD										>>> acquis
 - Exercice sur les droits d'accès										>>> en cours d'acquisistion
 - Continuer le cours sur le passage du MCD(modèle conceptuel de données) au MRD(modèle relationnel de données)	>>> acquis
 - Continuer de travailler sur le Projet Micropousses								>>> en cours d'acquisistion
 
+				Le 18/12/19
+
+- Continuer de travailler sur le projet "micopousses"								>>> acquis
+- Revoir le Trello "Arbre des Compétences"									>>> acquis
+- Revoir Readthedocs												>>> acquis 
  
