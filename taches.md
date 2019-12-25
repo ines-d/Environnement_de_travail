@@ -192,4 +192,9 @@ Environnement de travail
 - Continuer de travailler sur le projet "micopousses"								>>> acquis
 - Revoir le Trello "Arbre des Compétences"									>>> acquis
 - Revoir Readthedocs												>>> acquis 
+
+
+				Le 19/12/19
+
+- Continuer de travailler sur le projet "micopousses"								>>> acquis
  
