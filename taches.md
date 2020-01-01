@@ -33,7 +33,7 @@ Environnement de travail
 				Le 20/11/2019
 
 
-- Exercices Python(while, for)											>>> acquis 
+- Exercices Python(while, for) voir exo python 1								>>> acquis 
 
 
 				Le 21/11/2019
