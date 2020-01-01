@@ -39,7 +39,7 @@ Environnement de travail
 				Le 21/11/2019
 
 
-- Exercices sur Pandas et Matplotlib 										>>> acquis
+- Exercices sur Pandas et Matplotlib voir exo python graphe							>>> acquis
   ( calcule de la moyenne, médianne, quartiles, graphiques,mode, variance...)
 
 
