@@ -197,4 +197,9 @@ Environnement de travail
 				Le 19/12/19
 
 - Continuer de travailler sur le projet "micopousses"								>>> acquis
+
+
+				Le 20/12/19
+
+- Atelier recherche de stage											>>> en cours d'acquisistion 
  
