@@ -143,7 +143,7 @@ Environnement de travail
 - Veille sur l(utilisation de google sheet									>>> en cours d'acquisition
 - Atelier création d'un tableau d'une liste déroulante simple							>>> acquis
 - Atelier recherche d'offre de stage:[le lien](https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit?usp=sharing)													>>> en cours d'acquisition
-
+- Voir le fichier csv "ines-dridi_data_recherche_stage-Feuille4.csv"
 
 				Le 09/12/19
 
