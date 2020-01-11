@@ -38,3 +38,11 @@ Janvier : Environnement de travail
             Le 09/01/2020
 
 - Continuer à travailler sur le Projet open source                              >>> en cours d'acquisistion
+
+
+            Le 10/01/2020
+
+- Mise à jours du tableur "Stage"                                              >>> en cours d'acquisistion
+- Liste déroulante simple google sheets                                        >>> acquis
+- Liste nommée de plage de cellules google sheets                              >>> acquis
+
