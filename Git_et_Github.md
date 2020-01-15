@@ -30,32 +30,21 @@ Initialisation du projet :
 
 Avec Git init, git va créer un fichier caché « git » dans le dossier (en fichier caché) [CTRL H pour afficher les fichiers cachés sur Linux ]qui permettra de pusher les fichiers vers Github.
 
-
-
-
-
-
+![initialisation](./image_git/initialisation.jpg)
 
 
 Identification sur Git :
 
 Il faut ensuite s’identifier sur Git pour pouvoir continuer à utiliser toutes les commandes.
 
-
+![identification](./image_git/identification.jpg)
 
 
 Exemple de sauvegarde d’un fichier sur GitHub :
 
 Dans un premier temps, il faut pré-sauvegarder le fichier grâce à « git add NomDuFichier » puis avec la commande « guide status », on affichera la liste de tous les fichiers pré-sauvegardés.
 
-
-
-
-
-
-
-
-
+![add](./image_git/add.jpg)
 
 
 Pour annuler cette opération,il faut comme c’est indiqué au-dessus, utiliser la commande 
@@ -63,32 +52,20 @@ Pour annuler cette opération,il faut comme c’est indiqué au-dessus, utiliser
 
 Attention de ne pas oublier les deux tirets avant « cached » sans cela, le fichier sera supprimé.
 
-
-
-
-
-
-
-
-
-
-
+![annulation](./image_git/annulation.jpg)
 
 
 
 Pour annuler une suppression ou tout autre changement, la commande « checkout » peut être utilisée.
+
+![checkout](./image_git/checkout.jpg)
 
 A la fin, pour finaliser la pré-sauvegarde, il suffit d’utiliser la commande « commit »
 Une page vim s’ouvre et demande un message de validation, ici « Première sauvegarde ».
 Vim est un éditeur de texte, c'est-à-dire un logiciel permettant la manipulation de fichiers texte.
 Un CTRL X ferme vim.
 
-
-
-
-
-
-
+![vim](./image_git/vim.jpg)
 
 
 
@@ -105,23 +82,12 @@ En fait, ce n’est pas une commande mais un fichier en faisant :
 Il suffira d’y inscrire les noms des fichiers que nous voulons exclure des git car trop sensibles par exemple.
 EX : .test/ (Ne pas oublier le point au début et le slash à la fin)
 
-
-
-
-
-
-
+![gitignore1](./image_git/gitignore1.jpg)
 
 
 En faisant ls, le fichier .gitignore n’apparaît pas.
 
-
-
-
-
-
-
-
+![gitignore2](./image_git/gitignore2.jpg)
 
 
 
@@ -130,96 +96,35 @@ III LES BRANCHES
 https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref
 En faisant « git status », nous pouvons vérifier que nous sommes bien sur la branche master.
 
-
+![status](./image_git/status.jpg)
 
 Création d’une nouvelle branche :
 
-
+![branch1](./image_git/branch1.jpg)
 
 
 Pour aller sur cette nouvelle branche, il suffit de faire « git checkout NomNouvelleBranche ».
 
-
-
-
-
-
-
+![branch2](./image_git/branch2.jpg)
 
 
 Pour savoir dans quelle branche, nous sommes, il faut utiliser la commande « git branch --list ».
 Ne pas mettre d’espace entre les deux tirets et le nom de la branche, sinon une nouvelle branche sera créée.
 L’étoile devant le nom de la branche indiquera dans quelle branche nous nous situons.
 
+![branchlist](./image_git/branchlist.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![merge](./image_git/merge.jpg)
 
 IV REPOSITORY SUR GITHUB
 
+![repository1](./image_git/repository1.jpg)
 
 
+![repository2](./image_git/repository2.jpg)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![repository3](./image_git/repository3.jpg)
 
 
 
