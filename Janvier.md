@@ -46,3 +46,21 @@ Janvier : Environnement de travail
 - Liste déroulante simple google sheets                                        >>> acquis
 - Liste nommée de plage de cellules google sheets                              >>> acquis
 
+
+            Le 13/01/2020
+
+- Continuer à travailler sur le Projet open source                             >>> en cours d'acquisistion
+- Requetes SQL avec "union"                                                    >>> acquis
+
+
+            Le 14/01/2020
+
+- Continuer à travailler sur le Projet open data                               >>> en cours d'acquisistion
+
+
+            Le 15/01/2020
+
+- Veille : l'open data et les formats de données de l'open datta               >>> en cours d'acquisistion
+- Atelier en groupe : Git partagé, Readthedocs, DevData                        >>> en cours d'acquisistion
+ 
+
