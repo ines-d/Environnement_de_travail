@@ -21,7 +21,7 @@ Comment ?
 		- Environnement de travail
 Avec un projet (avec un dossier et des fichiers), un éditeur de texte et un terminal
 
-![version]("./image_git/version.jpg")
+![version](./image_git/version.jpg)
 	
 
 II PREMIERS PAS SUR GIT
