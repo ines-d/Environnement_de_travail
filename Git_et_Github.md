@@ -21,7 +21,7 @@ Comment ?
 		- Environnement de travail
 Avec un projet (avec un dossier et des fichiers), un éditeur de texte et un terminal
 
-.. image:: version.jpg/image_git/Environnment_de_travail
+.. image:: /image_git/version.jpg
 	:width: 500
 
 II PREMIERS PAS SUR GIT
