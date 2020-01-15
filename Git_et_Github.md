@@ -21,6 +21,8 @@ Comment ?
 		- Environnement de travail
 Avec un projet (avec un dossier et des fichiers), un éditeur de texte et un terminal
 
+![version](/home/ines/Documents/git_environnement/Environnement_de_travail/image_git/version.jpg)
+
 
 II PREMIERS PAS SUR GIT
 
