@@ -74,7 +74,7 @@ Janvier : Environnement de travail
             Le 17/01/2020
 
 - Veille : opensource, présentation datactivist/recap présentation datactivist (1-3p. max), prenom-nom-datactivist.md
-- Atelier en groupe : mise à jour tableur Google Sheet (ines_dridi_joblist.csv)
+- Atelier en groupe : mise à jour tableur Google Sheet (ines_dridi_joblist.csv) [lien tableur](https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit#gid=1762547584)
 - Atelier en groupe : Git partagé, Readthedocs, DevData
  
 
