@@ -62,5 +62,12 @@ Janvier : Environnement de travail
 
 - Veille : l'open data et les formats de données de l'open datta               >>> en cours d'acquisistion
 - Atelier en groupe : Git partagé, Readthedocs, DevData                        >>> en cours d'acquisistion
+
+
+            Le 16/01/2020
+
+- Atelier : Découverte Magrit, cartoggraphie, données géographiques             >>> en cours d'acquisistion
+- Continuer de travailler en groupe sur le Git partagé et le Readthedocs        >>> en cours d'acquisistion
+
  
 
