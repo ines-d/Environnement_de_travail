@@ -1,0 +1,12 @@
+EN_ID,EN_ nom,EN_adresse,EN_code_postale,EN_ville,EN_tel,EN_lien,EN_email,OF_intitulé,OF_type contrat,OF_source
+1,Crédit Agricole e-immobilier,"570, av. du Club Hippique Batiment le Derby ",13090,AIX EN PROVENCE,04 42 20 10 20,,contact.aix@acecredit.fr,DATA ENGINEER - SCIENTIST ,CDI,pole emploi
+2,Distrimag,QUARTIER DE LA DYNAMITE av marie curie,13310,Saint-Martin-de-Crau,04 90 47 96 80,,,Alternant Analyste Transport BTB ,contrat apprentissage,indeed
+3,See Tickets,35 QUAI DU LAZARET,13002,Marseille,04 91 05 15 57,,recrutement@digitick.com,Data Analyste ,stage,indeed
+4,Airbus Helicopters ,Aéroport International Marseille Provence,13700,Mrignanne,04 42 85 85 85,https://www.aeroemploiformation.com/Emploi-Airbus-Helicopters,,Data Analyste ,stage,indeed
+5,Deloitte France,7 quai de la joliette,13002,Marseille,04 91 59 84 30 ,https://candidat.pole-emploi.fr/offres/recherche/detail/5678243,,Data Analyste ,CDI,pole emploi
+6,Sept Lieues,113 rue de la République ,13002,Marseille,04 91 39 39 39,https://candidat.pole-emploi.fr/offres/recherche/detail/5663289,,Data Analyste ,CDI,pole emploi
+7,Spora Steria,"Bâtiment Olympe, 550 Rue Pierre Berthier CS 40496",13290,AIX EN PROVENCE,04 42 37 92 92,https://candidat.pole-emploi.fr/offres/recherche/detail/5661908,,Data Analyste ,CDI,pole emploi
+8,Sesstim Orspaca,"3ème étage, Faculté de Médecine, 27 Boulevard Jean Moulin",13005,Marseille,04 91 32 48 00,https://candidat.pole-emploi.fr/offres/recherche/detail/5629010,,Data Analyste ,CDI,pole emploi
+9,OPENED MIND JPA,"425 Rue René Descartes, 13857 Aix-en-Provence",13857,AIX EN PROVENCE,04 88 19 61 61,https://candidat.pole-emploi.fr/offres/recherche/detail/097SMXP,mcmaurel@openedmind.fr,Data Analyste ,CDI,pole emploi
+10,Sopra Steria Groupe,"Bâtiment Olympe, 550 Rue Pierre Berthier CS 40496",13290,AIX EN PROVENCE,04 42 37 92 92,https://candidat.pole-emploi.fr/offres/recherche/detail/6044786,,Data Analyste ,CDI,pole emploi
+11,ORS PACA,23 rue Stanislas Torrents 13006 Marseille,13006,Marseille,04 91 32 48 00,https://candidat.pole-emploi.fr/offres/recherche/detail/6042954,gwenaelle.maradan@inserm.fr,Gestionnaire Bases de Données,CDI,pole emploi

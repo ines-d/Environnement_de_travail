@@ -68,6 +68,13 @@ Janvier : Environnement de travail
 
 - Atelier : Découverte Magrit, cartoggraphie, données géographiques             >>> en cours d'acquisistion
 - Continuer de travailler en groupe sur le Git partagé et le Readthedocs        >>> en cours d'acquisistion
-- Intervention d'un Datactivist l'après-midi                                    >>> acquis 
+- Intervention d'un Datactivist sur l'open data, l'après-midi                   >>> acquis 
+
+
+            Le 17/01/2020
+
+- Veille : opensource, présentation datactivist/recap présentation datactivist (1-3p. max), prenom-nom-datactivist.md
+- Atelier en groupe : mise à jour tableur Google Sheet (ines_dridi_joblist.csv)
+- Atelier en groupe : Git partagé, Readthedocs, DevData
  
 
