@@ -68,6 +68,6 @@ Janvier : Environnement de travail
 
 - Atelier : Découverte Magrit, cartoggraphie, données géographiques             >>> en cours d'acquisistion
 - Continuer de travailler en groupe sur le Git partagé et le Readthedocs        >>> en cours d'acquisistion
-
+- Intervention d'un Datactivist l'après-midi                                    >>> acquis 
  
 
