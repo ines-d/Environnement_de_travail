@@ -95,3 +95,4 @@ Janvier : Environnement de travail
 - Restitution du projet Readthedocs par groupe                              >>> acquis
 - Sololearn  Python et SQL                                                  >>> en cours d'acquisistion
 
+
