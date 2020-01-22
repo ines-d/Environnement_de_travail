@@ -73,8 +73,25 @@ Janvier : Environnement de travail
 
             Le 17/01/2020
 
-- Veille : opensource, présentation datactivist/recap présentation datactivist (1-3p. max), prenom-nom-datactivist.md
-- Atelier en groupe : mise à jour tableur Google Sheet (ines_dridi_joblist.csv) [lien tableur](https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit#gid=1762547584)
-- Atelier en groupe : Git partagé, Readthedocs, DevData
+- Veille : opensource, présentation datactivist/recap présentation datactivist (1-3p. max), prenom-nom-datactivist.md >>> en cours d'acquisistion
+- Atelier en groupe : mise à jour tableur Google Sheet (ines_dridi_joblist.csv) [lien tableur](https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit#gid=1762547584) >>> acquis
+- Atelier en groupe : Git partagé, Readthedocs, DevData >>> en cours d'acquisistion
+
+
+            Le 20/01/2020
+
+- Continuer à travailler sur le projet open source                          >>> en cours d'acquisistion
+- Requetes avancées SQL                                                     >>> en cours d'acquisistion
+
+
+            Le 21/01/2020
+
+- Continuer à travailler sur le projet open source                          >>> en cours d'acquisistion
+- Créer l'application sur python                                            >>> en cours d'acquisistion
  
+
+            Le 22/01/2020
+
+- Restitution du projet Readthedocs par groupe                              >>> acquis
+- Sololearn  Python et SQL                                                  >>> en cours d'acquisistion
 
