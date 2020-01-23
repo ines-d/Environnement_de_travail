@@ -96,3 +96,9 @@ Janvier : Environnement de travail
 - Sololearn  Python et SQL                                                  >>> en cours d'acquisistion
 
 
+            Le 23/10/2020
+
+- Travailler sur Sololearn Python et SQL                                    >>> en cours d'acquisistion
+ 
+
+
