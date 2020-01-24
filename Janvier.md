@@ -98,7 +98,13 @@ Janvier : Environnement de travail
 
             Le 23/10/2020
 
-- Travailler sur Sololearn Python et SQL                                    >>> en cours d'acquisistion
+- Bootcamp : Travailler sur Sololearn Python et SQL                         >>> en cours d'acquisistion
+
+
+            Le 24/01/2020
+
+- Bootcamp : continuer à travailler sur Sololearn Python et SQL             >>> en cours d'acquisistion
+ 
  
 
 
