@@ -103,8 +103,8 @@ Janvier : Environnement de travail
 
             Le 24/01/2020
 
-- Bootcamp : continuer à travailler sur Sololearn Python et SQL             >>> en cours d'acquisistion
- 
+- Bootcamp : continuer à travailler sur Sololearn Python et SQL [lien](https://www.sololearn.com/Profile/17191916)>>> en cours d'acquisistion
+
  
 
 
