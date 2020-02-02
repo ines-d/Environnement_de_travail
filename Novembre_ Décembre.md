@@ -7,18 +7,18 @@ Environnement de travail
 - Installer Git 												>>> acquis  le 14/11/2019
 - Installer Ubuntu 												>>> acquis  le 14/11/2019
 - Installer Chrome 												>>> acquis  le 14/11/2019
-- Verifier version Python 											>>> non acquis
+- Verifier version Python 										>>> non acquis
 - Carnet de bord 												>>> en cours  le 14/11/2019
-- Compte Google colab 												>>> acquis le 17/11/2019
-- S'inscrire Géogebra 												>>> acquis  17/11/2019
+- Compte Google colab 											>>> acquis le 17/11/2019
+- S'inscrire Géogebra 											>>> acquis  17/11/2019
 - Compte Trello 												>>> acquis  le 17/11/2019
-- Jupyter notebook (Anaconda) 											>>> acquis  le 17/11/2019
+- Jupyter notebook (Anaconda) 									>>> acquis  le 17/11/2019
 - Installer VScode 												>>> acquis  le 17/11/2019
 
 				Le 18/11/2019
 	
-- Chercher les avantages et les inconvenients d'un SGBD 							>>> acquis
-- Installer MySQL Workbench 											>>> acquis
+- Chercher les avantages et les inconvenients d'un SGBD 		>>> acquis
+- Installer MySQL Workbench 									>>> acquis
 - Compte mode.com 												>>> acquis
 - Exercice MySQL 												>>> acquis
 	
@@ -27,19 +27,19 @@ Environnement de travail
 
 
 - Installer Anaconda 												>>> acquis le 17/11/2019
-- Exercices Python (if, elif, eles)										>>> acquis 
+- Exercices Python (if, elif, eles)									>>> acquis 
 				
 
 				Le 20/11/2019
 
 
-- Exercices Python(while, for) voir exo python 1								>>> acquis 
+- Exercices Python(while, for) voir exo python 1					>>> acquis 
 
 
 				Le 21/11/2019
 
 
-- Exercices sur Pandas et Matplotlib voir exo python graphe							>>> acquis
+- Exercices sur Pandas et Matplotlib voir exo python graphe			>>> acquis
   ( calcule de la moyenne, médianne, quartiles, graphiques,mode, variance...)
 
 
@@ -93,12 +93,12 @@ Environnement de travail
 
 
 - Atelier Trello : continuer le remplissage des 3 tableau							>>> en cours d'acquisition
-- Installer mkdocs suite à l'installation de Readthedocs							>>> en cours d'acquisition
+- Installer mkdocs suite à l'installation de Readthedocs			>>> en cours d'acquisition
 
 				
 				Le 02/12/19
 
-- Modèl relationnel de données: 										>>> en cours d'acquisition
+- Modèl relationnel de données: 									>>> en cours d'acquisition
 			- dépendances fonctionnelles.
 			- identifiant
 			- les formes normales
@@ -111,26 +111,26 @@ Environnement de travail
 
 
 - Fonctions récursives 												>>> en cours d'acquisition
-- Modèle conceptuel des données, exercices									>>> en cours d'acquisition
+- Modèle conceptuel des données, exercices							>>> en cours d'acquisition
 		
 
 				Le 04/12/19
 
 - Veille sur API												>>> en cours d'acquisition
-- Veille sur Cloud computing											>>> en cours d'acquisition
-- Veille SCRUM MASTER												>>> en cours d'acquisition
+- Veille sur Cloud computing									>>> en cours d'acquisition
+- Veille SCRUM MASTER											>>> en cours d'acquisition
 - Veille J-SON													>>> en cours d'acquisition
-- Veille sur Proof of concept											>>> en cours d'acquisition
-- Veille sur RC=Release candidate										>>> en cours d'acquisition
+- Veille sur Proof of concept									>>> en cours d'acquisition
+- Veille sur RC=Release candidate								>>> en cours d'acquisition
 - Installer sphinx 												>>> en cours d'acquisition
 
 
 				Le 05/12/2019
 
 - Veille sur python												>>> en cours d'acquisition
-- Installer Readthdocs 												>>> acquis
+- Installer Readthdocs 											>>> acquis
 - Installer sphinx												>>> acquis
-- Installer Markdown												>>> en cours d'acquisition
+- Installer Markdown											>>> en cours d'acquisition
 - Roadmap pour le stage:https://trello.com/b/A7ExCkRw/roadmap-stage 						>>> en cours d'acquisition
 - Arbre des compétences:https://trello.com/b/FlMCgX8k/arbre-de-comp%C3%A9tences					>>> en cours d'acquisition
 - Livrer le Manuel "suivi de projet" 										>>> en cours d'acquisition 
@@ -165,7 +165,7 @@ Environnement de travail
 
 				Le 12/12/19
 
-- Visite de l'entreprise Paysan Urbain										>>> en cours d'acquisistion
+- Visite de l'entreprise Paysan Urbain										>>> en cours d'acquisition
 - création de groupe et répartition des taches par rapport au projet						>>> acquis
 
 
@@ -177,15 +177,15 @@ Environnement de travail
 
 				Le 16/12/19
 
-- Continuer le travail sur le Projet Micropousses								>>> en cours d'acquisistion
+- Continuer le travail sur le Projet Micropousses								>>> en cours d'acquisition
 - La présentation du projet "FETEKADO" l'aprèe-midi								>>> acquis
 
 				Le 17/12/19
 
 - Veille sur les droits d'accès SGBD										>>> acquis
-- Exercice sur les droits d'accès										>>> en cours d'acquisistion
+- Exercice sur les droits d'accès										>>> en cours d'acquisition
 - Continuer le cours sur le passage du MCD(modèle conceptuel de données) au MRD(modèle relationnel de données)	>>> acquis
-- Continuer de travailler sur le Projet Micropousses								>>> en cours d'acquisistion
+- Continuer de travailler sur le Projet Micropousses								>>> en cours d'acquisition
 
 				Le 18/12/19
 
@@ -201,7 +201,7 @@ Environnement de travail
 
 				Le 20/12/19
 
-- Atelier recherche de stage											>>> en cours d'acquisistion 
+- Atelier recherche de stage											>>> en cours d'acquisition 
 
 
 				Le 02/01/2020

@@ -113,3 +113,24 @@ Janvier : Environnement de travail
 - Programmation orientée objet                                              >>> en cours d'acquisition
 
 
+            Le 28/01/2020
+
+- Continuer le programme du 27/01/2020                                      >>> en cours d'acquisition
+
+
+            Le 29/01/2020
+
+- Bootcamp : sur le site Snakify                                            >>> en cours d'acquisition
+
+
+            Le 30/01/2020
+
+- Bootcamp : continuer sur Snakify                                          >>> en cours d'acquisition
+
+            Le 31/01/2020
+
+- Recherche d'offre de stage [Lien Google Sheet](https://docs.google.com/spreadsheets/d/1WYFz4Hbove46EdApUaoQsSlqJXPa9drf11udaCgxp3A/edit)>>> en cours d'acquisition
+- Intervention pour le montoring Martin Maurel                              >>> acquis
+
+
+
