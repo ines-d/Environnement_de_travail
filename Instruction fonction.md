@@ -14,15 +14,15 @@ Finalement, tout dépendra de leur position, d’où leur qualiﬁcation de posi
 
 
 exemple:
- 1 >>> def fois(x, y):
- 2 ... return x*y
- 3 …
- 4 >>> fois(2, 3) 
- 5 6
- 6 >>> fois(2)
- 7 Traceback (most recent call last):
- 8 File "<stdin>", line 1, in <module> 
- 9 TypeError: fois() missing 1 required positional argument: 'y'
+ # >>> def fois(x, y):
+ # ... return x*y
+ # …
+ # >>> fois(2, 3) 
+ # 6
+ # >>> fois(2)
+ # Traceback (most recent call last):
+ # File "<stdin>", line 1, in <module> 
+ # TypeError: fois() missing 1 required positional argument: 'y'
 
 
 3-1 Arguments par mot-clé:
