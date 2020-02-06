@@ -14,15 +14,18 @@ Finalement, tout dépendra de leur position, d’où leur qualiﬁcation de posi
 
 
 exemple:
- # >>> def fois(x, y):
- # ... return x*y
- # …
- # >>> fois(2, 3) 
- # 6
- # >>> fois(2)
- # Traceback (most recent call last):
- # File "<stdin>", line 1, in <module> 
- # TypeError: fois() missing 1 required positional argument: 'y'
+
+
+                >>> def fois(x, y):
+                ... return x*y
+                …
+                >>> fois(2, 3) 
+                6
+                >>> fois(2)
+                Traceback (most recent call last):
+                File "<stdin>", line 1, in <module> 
+                TypeError: fois() missing 1 required positional argument: 'y'
+
 
 
 3-1 Arguments par mot-clé:
@@ -71,14 +74,14 @@ Une variable est dite globale lorsqu’elle est créée dans le programme princi
 Il peut se faire par exemple que vous ayez à définir une fonction qui soit capable de modifier une variable globale. Pour atteindre ce résultat, il vous suffira d’utiliser l’instruction global. Cette instruction permet d’indiquer - à l’intérieur de la définition d’une fonction - quelles sont les variables à traiter globalement.
 
 
-def test():
-    global b
-    b = 5
-    print(a, b)
+                def test():
+                    global b
+                    b = 5
+                    print(a, b)
     
-a = 2
-b = 7
-test()
-print(a, b)
-2 5
-2 5
+                    a = 2
+                    b = 7
+                    test()
+                print(a, b)
+                2 5
+                2 5
