@@ -110,7 +110,7 @@ Janvier : Environnement de travail
 
 
 - Créer des Class en Python                                                 >>> en cours d'acquisition
-- Programmation orientée objet                                              >>> en cours d'acquisition
+- Programmation orientée objet fichier"exos class et fonction.md"           >>> en cours d'acquisition
 
 
             Le 28/01/2020
