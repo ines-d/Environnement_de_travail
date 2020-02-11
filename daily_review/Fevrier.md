@@ -2,6 +2,11 @@ FEVRIER
 =======
 
 
+            Le 11/02/2020
+
+- Requetes d'agregations:"requetes_agregation.sql"      >>> en cours d'acquisition
+
+
             Le 10/02/2020
 
 - Intervention d'un intervenant de la CMA CGM
