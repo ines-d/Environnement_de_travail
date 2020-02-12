@@ -1,6 +1,11 @@
 FEVRIER
 =======
 
+            Le 12/02/2020
+
+- Bootcamp : SQLbolt, Snakify.                          >>> en cours d'acquisition
+- Préparer le Meetup : Readthdocs c'est Magique         >>> en cours d'acquisition
+- continuer la Documentation Readthedocs sur SQL avec des exemples >>> en cours d'acquisition
 
             Le 11/02/2020
 
