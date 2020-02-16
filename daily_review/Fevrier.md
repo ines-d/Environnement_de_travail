@@ -1,6 +1,19 @@
 FEVRIER
 =======
 
+
+            Le 14/02/2020
+
+- Bootcamp : Snakify, SQLbolt                           >>> en cours d'acquisition
+- mise au point avec le formateur avant l'evaluation    >>> acquis
+
+
+            Le 13/02/2020
+
+- Bootcamp : Snakify, SQLbolt.                          >>> en cours d'acquisition
+- Atelier : SQL jointure                                >>> en cours d'acquisition
+
+
             Le 12/02/2020
 
 - Bootcamp : SQLbolt, Snakify.                          >>> en cours d'acquisition
