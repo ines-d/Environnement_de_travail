@@ -3,13 +3,14 @@ use sakila;
 
 select * from rental;
 
-select title, name ,first_name, last_name, count(title) as nbre_film from actor 
+select count(title) as nbre_film , name ,first_name, last_name from actor 
 inner join film_actor on actor.actor_id=film_actor.actor_id
 inner join film on film_actor.film_id=film.film_id
 inner join film_category on film.film_id=film_category.film_id
 inner join category on film_category.category_id=category.category_id
 where first_name='JOHNNY' AND last_name='LOLLOBRIGIDA'
-group by name, title;
+group by  name;
+
 
 # Ecrire la requête qui affiche les catégories dans les quels « JOHNNY LOLLOBRIGIDA » totalise plus de 3 films.
 
