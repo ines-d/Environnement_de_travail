@@ -2,6 +2,35 @@ FEVRIER
 =======
 
 
+            Le 21/02/2020
+
+- Atelier : Veille sur la méthode Scrum                 >>> acquis
+
+
+
+            Le 20/02/2020
+
+- Atelier : Veille sur la méthode Scrum                 >>> en cours d'acquisition
+- Préparer le meeting                                   >>> en cours d'acquisition 
+
+
+
+            Le 19/02/2020
+
+- Bootcamp : SQLbolt, snakify                           >>> en cours d'acquisition
+- Atelier SQL : alimenter Readthedocs                   >>> en cours d'acquisition
+
+
+            Le 18/02/2020
+
+- Evaluation                                            >>> acquis
+
+
+            Le 17/02/2020
+
+- Evaluation                                            >>> en cours d'acquisition
+
+
             Le 14/02/2020
 
 - Bootcamp : Snakify, SQLbolt                           >>> en cours d'acquisition
