@@ -2,6 +2,16 @@ FEVRIER
 =======
 
 
+            Le 25/02/2020
+
+- Analyse de données avec Python (Pandas)               >>> en cours d'acquisition
+
+
+            Le 24/02/2020
+
+- Correction de l'Evaluation                            >>> acquis
+
+
             Le 21/02/2020
 
 - Atelier : Veille sur la méthode Scrum                 >>> acquis
