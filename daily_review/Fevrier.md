@@ -2,6 +2,16 @@ FEVRIER
 =======
 
 
+
+            Le 26/02/2020
+
+- Veille Scrum                                          >>> acquis
+- Workshop:Projet Manageo(questionnaire, google sheet)  >>> en cours d'acquisition
+- Bootcamp : Snakify, SQLbolt                           >>> en cours d'acquisition
+- Readthedocs : Update SQL (avec exemples)              >>> en cours d'acquisition
+- Evaluation : GIT(60%), PYTHON(73%), SQL(100%)         >>> acquis
+
+
             Le 25/02/2020
 
 - Analyse de données avec Python (Pandas)               >>> en cours d'acquisition
