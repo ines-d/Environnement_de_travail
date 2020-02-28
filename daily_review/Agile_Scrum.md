@@ -7,7 +7,7 @@ le Scrum est basé sur des rôles.
 
 1- Le Product Owner:
 -----------------
-c'est le chef de projet, il es chargé de représenter le client et ses attentes
+c'est le chef de projet, il est chargé de représenter le client et ses attentes
 - Expert métier, définit les spécifications fonctionnelles
 - Etablit la priorité des fonctionnalités à développer ou corriger
 - Valide les fonctionnnalités développées
