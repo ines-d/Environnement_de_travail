@@ -3,6 +3,21 @@ FEVRIER
 
 
 
+            Le 28/02/2020
+
+
+- Workshop : Manageo (questionnaire)                    >>> en cours d'acquisition
+- Presentation : Scrum, Readthedocs(SQL)                >>> en cours d'acquisition
+
+
+            Le 27/02/2020
+
+
+- Bootcmap : SQLbol, Snakify                            >>> en cours d'acquisition
+- Workshop : Manageo (questionnaire)                    >>> en cours d'acquisition
+- Readthedocs : Update SQL (avec exemlpes)              >>> en cours d'acquisition
+
+
             Le 26/02/2020
 
 - Veille Scrum                                          >>> acquis
